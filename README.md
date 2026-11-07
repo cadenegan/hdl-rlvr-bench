@@ -1,6 +1,6 @@
 # HDL and SPICE verification exercises
 
-[![Checks](https://github.com/LanROVeg/hdl-rlvr-bench/actions/workflows/checks.yml/badge.svg)](https://github.com/LanROVeg/hdl-rlvr-bench/actions/workflows/checks.yml)
+[![Checks](https://github.com/cadenegan/hdl-rlvr-bench/actions/workflows/checks.yml/badge.svg)](https://github.com/cadenegan/hdl-rlvr-bench/actions/workflows/checks.yml)
 
 Three small EE exercises with automated grading:
 
